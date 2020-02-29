@@ -51,7 +51,7 @@ const MaterialBottomTabNavigatorConfig = {
     initialRouteName: 'Home',
     activeColor: '#fff',
     inactiveColor: '#3e2465',
-    barStyle: { backgroundColor: '#694fad' },
+    barStyle: { backgroundColor: '#00bdff' },
 }
 
 export default createMaterialBottomTabNavigator(
